@@ -1,0 +1,29 @@
+#a{
+    margin-top: 200px;
+    color: white;
+}
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+
+}
+#u{
+    width: 350px;
+    height:50px ;
+    text-decoration: none;
+    font-size:15px ;
+    color: white;
+    border: none;
+}
+#s{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    width: 160px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    
+}
+
+
